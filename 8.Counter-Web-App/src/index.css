@@ -1,0 +1,72 @@
+body {
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #e7dfdf;
+  color: white;
+}
+
+.container {
+  text-align: center;
+  background: #b7a4a4;
+  padding: 60px;
+  border-radius: 12px;
+  box-shadow: 0px 4px 10px rgb(133, 64, 64);
+  width: 300px;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  color: #ffffff;
+}
+
+.buttons {
+  font-size: 1.2rem;
+  margin: 5px;
+  transition: all 0.2s ease-in-out;
+}
+
+.btn1 {
+  background: #4caf50;
+  color: white;
+  box-shadow: 0px 4px 10px rgba(76, 175, 80, 0.5);
+  padding: 10px 30px;
+  cursor: pointer;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.btn1:hover {
+  background: #45a049;
+}
+
+.btn2 {
+  background: #f44336;
+  color: white;
+  box-shadow: 0px 4px 10px rgba(244, 67, 54, 0.5);
+  padding: 8px 20px;
+  cursor: pointer;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.btn2:hover {
+  background: #e53935;
+}
+
+.btn3 {
+  background: #ff9800;
+  color: white;
+  box-shadow: 0px 4px 10px rgba(255, 152, 0, 0.5);
+  padding: 6px 15px;
+  cursor: pointer;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.btn3:hover {
+  background: #e28903;
+}
