@@ -14,4 +14,4 @@ A simple counter app built using **React** and styled with **CSS**.
 
 ## links
 
-- [Live Demo](https://counterapp-p01.netlify.app/)
+- [Live Demo]()
