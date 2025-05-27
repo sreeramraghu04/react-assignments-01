@@ -204,3 +204,9 @@
 - Implementt the counter logic using React's state management.
 - Ensure that the counter value is displayed in the UI and updates in real-time when incremented or decremented.
 - Use appropraite React components and hooks to manage the counter state and handle button clicks events.
+
+⚠️ **Note**: Please check the folder named **8.Counter-Web-App** to catch the answer for this question.
+
+9. Develop a GitHub User Finder web application using react the application should allow users to enter a GitHub username and display relevant information about the user, including their avatar and name.the design of the application should follow the layout provided in the image below.
+
+⚠️ **Note**: Please check the folder named **9.GitHub-User-Finder** to catch the answer for this question.
