@@ -209,4 +209,21 @@
 
 9. Develop a GitHub User Finder web application using react the application should allow users to enter a GitHub username and display relevant information about the user, including their avatar and name.the design of the application should follow the layout provided in the image below.
 
+- Use Github Api to get User Data "https://api.github.com/users
+
+⚠️ **Note**: Please check the folder named **9.GitHub-User-Finder** to catch the answer for this question.
+
+10. Develop a simple website using react, fetch and display products from the "https://fakestoreapi.com/products" API. The website should have the following fearures:
+
+- Fetch products data from the "https://fakestoreapi.com/products" API.
+- Display the products in a user-friendly Ul.
+- Show Three products in a single row for optimal visibility and layout.
+- Use React to achieve the desired layout and functionality.
+- Ensure that the Ul is visually appealing and responsive.
+- Implement error handling to handle any issues with API requests.
+- Test the website thoroughly to ensure proper functionality and performance.
+- Provide clear and concise documentation to guide users on how to interact with the website and understand its features.
+
+  **Note**: Refer to the provided image or design specification for the desired layout and styling of the product display in a single row.
+
 ⚠️ **Note**: Please check the folder named **9.GitHub-User-Finder** to catch the answer for this question.
