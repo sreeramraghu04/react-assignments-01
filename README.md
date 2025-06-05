@@ -205,7 +205,7 @@
 - Ensure that the counter value is displayed in the UI and updates in real-time when incremented or decremented.
 - Use appropraite React components and hooks to manage the counter state and handle button clicks events.
 
-⚠️ **Note**: Please check the folder named **[counter-web-app](https://github.com/sreeramraghu04/r-assign01-p01.git)** to catch the answer for this question.
+⚠️ **Note**: Please check the folder named **[counter-web-app](https://github.com/sreeramraghu04/r-assign01-p01.git)** to catch the answer code for this question.
 
 - [live demo-counterwebapp](https://counterwebappassign01p01.netlify.app/)
 
@@ -213,8 +213,9 @@
 
 - Use Github Api to get User Data "https://api.github.com/users
 
-⚠️ **Note**: Please check the folder named **[github-user-finder](https://github.com/sreeramraghu04/r-assign01-p02.git)** to catch the answer for this question.
-[live demo-githubuserfinder](https://githubuserfinderassign01p02.netlify.app/)
+⚠️ **Note**: Please check the folder named **[github-user-finder](https://github.com/sreeramraghu04/r-assign01-p02.git)** to catch the answer code for this question.
+
+- [live demo-githubuserfinder](https://githubuserfinderassign01p02.netlify.app/)
 
 10. Develop a simple website using react, fetch and display products from the "https://fakestoreapi.com/products" API. The website should have the following fearures:
 
@@ -229,5 +230,6 @@
 
   **Note**: Refer to the provided image or design specification for the desired layout and styling of the product display in a single row.
 
-⚠️ **Note**: Please check the folder named **[fake-store-api](https://github.com/sreeramraghu04/r-assign01-p03.git)** to catch the answer for this question.
-[live demo-fakestoreapi](https://fakestoreapiassign01p03.netlify.app/)
+⚠️ **Note**: Please check the folder named **[fake-store-api](https://github.com/sreeramraghu04/r-assign01-p03.git)** to catch the answer code for this question.
+
+- [live demo-fakestoreapi](https://fakestoreapiassign01p03.netlify.app/)
