@@ -10,7 +10,7 @@ A simple counter app built using **React** and styled with **CSS**.
 
 ## Screenshots
 
-- ![alt text](CounterWebApp.png)
+![alt text](counterwebapp-1.png)
 
 ## links
 
