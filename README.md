@@ -28,6 +28,8 @@
 
     - JSX Syntax: JSX can be confusing initially for developers unfamiliar with HTML inside JavaScript.
 
+---
+
 2. What do you understand by Virtual Dom ?
 
 - The Virtual DOM (Document Object Model) is a programming concept used in libraries like React to improve the performance and efficiency of web applications. It is a lightweight, in-memory representation of the actual DOM on the browser.
@@ -35,6 +37,8 @@
 - Whenever the state of a React component changes, a new Virtual DOM is created. React then compares this new Virtual DOM with the previous one using a process called "diffing." After identifying the differences, React updates only the parts of the real DOM that have changed, rather than re-rendering the entire page. This minimizes direct manipulation of the actual DOM, which is known to be slow and inefficient.
 
 - By using the Virtual DOM, applications become faster, more responsive, and easier to manage, especially in large-scale projects where frequent UI updates are required.
+
+---
 
 3. Difference between Virtual Dom vs Real Dom ?
 
@@ -49,6 +53,8 @@
   - Real DOM updates are slower and can cause performance issues.
 
   - Virtual DOM allows faster and more efficient updates by minimizing direct manipulation of the Real DOM.
+
+---
 
 4. Whats component? Types of component
 
@@ -85,6 +91,8 @@
         }
       }
       ```
+
+---
 
 5. Difference between class & function based component ?
 
@@ -128,6 +136,8 @@
       }
       ```
 
+---
+
 6. Explain react component life cycle ?
 
 - In React, the component lifecycle refers to the series of phases a component goes through from its creation to its removal from the DOM. These phases are mainly divided into three categories:
@@ -163,6 +173,8 @@
   - A `useEffect` that returns a cleanup function mimics `componentWillUnmount`.
   - A `useEffect` with dependencies can act like `componentDidUpdate`.
 
+---
+
 7. Explain Prop Drilling in React & Ways to avoid it ?
 
 - Prop Drilling in React refers to the process of passing data from a parent component down to deeply nested child components through intermediate components, even if those intermediate components do not need to use the data themselves. This can make the code harder to read, maintain, and debug, especially in larger applications.
@@ -193,6 +205,8 @@
 
     - By extracting logic into custom hooks, we can encapsulate and reuse logic cleanly across components without unnecessary prop passing.
 
+---
+
 8. Create a Counter Web App Using React
 
 - Develop a web application using react that functions as a counter.
@@ -218,6 +232,8 @@
 ⚠️ **Note**: Please check the folder named **[github-user-finder](https://github.com/sreeramraghu04/r-assign01-p02.git)** to catch the answer code for this question.
 
 - [live demo-githubuserfinder](https://githubuserfinderassign01p02.netlify.app/)
+
+---
 
 10. Develop a simple website using react, fetch and display products from the "https://fakestoreapi.com/products" API. The website should have the following fearures:
 
