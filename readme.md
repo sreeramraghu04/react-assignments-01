@@ -227,4 +227,3 @@
   **Note**: Refer to the provided image or design specification for the desired layout and styling of the product display in a single row.
 
 ⚠️ **Note**: Please check the folder named **9.GitHub-User-Finder** to catch the answer for this question.
-o

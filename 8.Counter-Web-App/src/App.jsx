@@ -9,18 +9,11 @@ function App() {
   const decrement = () => {
     setCount(count > 0 ? count - 1 : count);
   };
-  const reset = () => {
-    setCount(0);
-  };
+
   return (
     <div>
       <div>
-        <CounterApp
-          count={count}
-          increment={increment}
-          decrement={decrement}
-          reset={reset}
-        />
+        <CounterApp count={count} increment={increment} decrement={decrement} />
       </div>
     </div>
   );
