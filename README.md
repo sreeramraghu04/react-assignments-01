@@ -206,7 +206,8 @@
 - Use appropraite React components and hooks to manage the counter state and handle button clicks events.
 
 ⚠️ **Note**: Please check the folder named **[counter-web-app](https://github.com/sreeramraghu04/r-assign01-p01.git)** to catch the answer for this question.
-[live demo-counterwebapp](https://counterwebappassign01p01.netlify.app/)
+
+- [live demo-counterwebapp](https://counterwebappassign01p01.netlify.app/)
 
 9. Develop a GitHub User Finder web application using react the application should allow users to enter a GitHub username and display relevant information about the user, including their avatar and name.the design of the application should follow the layout provided in the image below.
 
