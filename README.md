@@ -209,6 +209,8 @@
 
 - [live demo-counterwebapp](https://counterwebappassign01p01.netlify.app/)
 
+---
+
 9. Develop a GitHub User Finder web application using react the application should allow users to enter a GitHub username and display relevant information about the user, including their avatar and name.the design of the application should follow the layout provided in the image below.
 
 - Use Github Api to get User Data "https://api.github.com/users
